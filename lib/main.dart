@@ -27,14 +27,14 @@ class DicePage extends StatelessWidget {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                Image(
-                  image: AssetImage('assets/images/dados/dice_1.png'),
+                Image.asset(
+                  'assets/images/dados/dice_1.png',
                   width: 150.0,
                 ),
-                Image(
-                  image: AssetImage('assets/images/dados/dice_1.png'),
+                Image.asset(
+                  'assets/images/dados/dice_1.png',
                   width: 150.0,
-                ),
+                )
               ],
             ),
           ),
