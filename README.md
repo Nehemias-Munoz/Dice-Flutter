@@ -1,4 +1,4 @@
-# dados_flutter
+# Dice Flutter
 
 A new Flutter project.
 
